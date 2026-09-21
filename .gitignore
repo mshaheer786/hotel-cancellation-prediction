@@ -1,0 +1,6 @@
+hotel_bookings.csv
+*.joblib
+hotel_bookings.csv
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
